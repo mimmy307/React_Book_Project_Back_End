@@ -40,7 +40,7 @@
                     "Thrilled",
                     "Mysterious"
                 ],
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -68,7 +68,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1250178630?tag=thenewyorktim-20",
                 "bookIsbn": "1250178630",
                 "mood": "Reflective",
-                "genre": "Historical Fiction",
+                "genre": "Historical-Fiction",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -183,10 +183,7 @@
                 "amazonBookUrl": "http://www.amazon.com/Court-Thorns-Roses-Sarah-Maas-ebook/dp/B00OZP5VRS?tag=thenewyorktim-20",
                 "bookIsbn": "1635575567",
                 "mood": "Adventurous",
-                "genre": [
-                    "Science Fiction",
-                    "Fantasy"
-                ],
+                "genre": "Fantasy",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -245,7 +242,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1668025590?tag=thenewyorktim-20",
                 "bookIsbn": "1668025612",
                 "mood": "Thrilled",
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": true,
                 "rating": 5,
                 "reviews": [
@@ -273,7 +270,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0593422872?tag=thenewyorktim-20",
                 "bookIsbn": "0593422880",
                 "mood": "Thrilled",
-                "genre": " Mystery/Thriller",
+                "genre": " Mystery",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -329,7 +326,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1649375700?tag=thenewyorktim-20",
                 "bookIsbn": "1649375700",
                 "mood": "Adventurous",
-                "genre": "Science Fiction",
+                "genre": "Science-Fiction",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -385,7 +382,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1538742578?tag=thenewyorktim-20",
                 "bookIsbn": "1538742578",
                 "mood": "Mysterious",
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -416,7 +413,7 @@
                     "Thrilled",
                     "Mysterious"
                 ],
-                "genre": " Mystery/Thriller",
+                "genre": " Mystery",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -444,7 +441,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1668051354?tag=thenewyorktim-20",
                 "bookIsbn": "1668051354",
                 "mood": "Humorous",
-                "genre": "Humor/Comedy",
+                "genre": "Humor",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
@@ -472,7 +469,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0385348746?tag=thenewyorktim-20",
                 "bookIsbn": "0385348746",
                 "mood": "Reflective",
-                "genre": "Historical Fiction",
+                "genre": "Historical-Fiction",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -500,10 +497,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0593655036?tag=thenewyorktim-20",
                 "bookIsbn": "0593655036",
                 "mood": "Reflective",
-                "genre": [
-                    "Non-Fiction",
-                    "Self-Help"
-                ],
+                "genre": "Self-Help",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -559,7 +553,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1982178965?tag=thenewyorktim-20",
                 "bookIsbn": "1982178965",
                 "mood": "Reflective",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -587,10 +581,7 @@
                 "amazonBookUrl": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=thenewyorktim-20",
                 "bookIsbn": "0143127748",
                 "mood": "Reflective",
-                "genre": [
-                    "Self-Help",
-                    "Non-Fiction"
-                ],
+                "genre": "Self-Help",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -618,7 +609,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0063357569?tag=thenewyorktim-20",
                 "bookIsbn": "0063357569",
                 "mood": "Reflective",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -646,7 +637,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1982108665?tag=thenewyorktim-20",
                 "bookIsbn": "1982108665",
                 "mood": "Reflective",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -674,7 +665,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/B0CP6DX73L?tag=thenewyorktim-20",
                 "bookIsbn": "None",
                 "mood": "Reflective",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -730,7 +721,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0062945769?tag=thenewyorktim-20",
                 "bookIsbn": "0062945769",
                 "mood": "Reflective",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -758,10 +749,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0593236599?tag=thenewyorktim-20",
                 "bookIsbn": "0593236599",
                 "mood": "Motivated",
-                "genre": [
-                    "Non-Fiction",
-                    "Self-Help"
-                ],
+                "genre": "Non-Fiction",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -789,10 +777,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0385534264?tag=thenewyorktim-20",
                 "bookIsbn": "0385534264",
                 "mood": "Mysterious",
-                "genre": [
-                    "Crime/Detective",
-                    "Historical Fiction"
-                ],
+                "genre": "Crime", 
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
@@ -848,7 +833,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0316403083?tag=thenewyorktim-20",
                 "bookIsbn": "0316403083",
                 "mood": "Thrilled",
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
@@ -876,10 +861,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1649376901?tag=thenewyorktim-20",
                 "bookIsbn": "1649376901",
                 "mood": "Adventurous",
-                "genre": [
-                    "Fantasy",
-                    "Science-Fiction"
-                ],
+                "genre": "Fantasy",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -935,7 +917,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/B0CCK3XKYK?tag=thenewyorktim-20",
                 "bookIsbn": "None",
                 "mood": "Mysterious",
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -963,10 +945,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1538765020?tag=thenewyorktim-20",
                 "bookIsbn": "1538765020",
                 "mood": " Adventurous",
-                "genre": [
-                    "Crime/Detective",
-                    "Mystery/Thriller"
-                ],
+                "genre": "Crime",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
@@ -1050,7 +1029,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1982185821?tag=thenewyorktim-20",
                 "bookIsbn": "1982185821",
                 "mood": "Reflective",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -1221,7 +1200,7 @@
                     "Mysterious",
                     "Thrilled"
                 ],
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -1249,7 +1228,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1791392792?tag=thenewyorktim-20",
                 "bookIsbn": "1538724731",
                 "mood": "Mysterious",
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -1308,7 +1287,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/059323748X?tag=thenewyorktim-20",
                 "bookIsbn": "059323748X",
                 "mood": "Inspirational",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -1392,7 +1371,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0062968793?tag=thenewyorktim-20",
                 "bookIsbn": "0062968793",
                 "mood": "Nostalgic",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -1420,7 +1399,7 @@
                 "amazonBookUrl": "https://www.amazon.com/Killers-Flower-Moon-Osage-Murders/dp/0385534248?tag=thenewyorktim-20",
                 "bookIsbn": "0307742482",
                 "mood": "Mysterious",
-                "genre": "Crime/Detective",
+                "genre": "Crime",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -1476,7 +1455,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1250787653?tag=thenewyorktim-20",
                 "bookIsbn": "1250787653",
                 "mood": "Sad",
-                "genre": "Historical Fiction",
+                "genre": "Historical-Fiction",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
@@ -1504,7 +1483,7 @@
                 "amazonBookUrl": "https://www.amazon.com/Splendid-Vile-Churchill-Family-Defiance/dp/0385348711?tag=thenewyorktim-20",
                 "bookIsbn": "0385348738",
                 "mood": "Inspirational",
-                "genre": "Historical Fiction",
+                "genre": "Historical-Fiction",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -1535,7 +1514,7 @@
                     "Thrilled",
                     "Mysterious"
                 ],
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -1563,10 +1542,7 @@
                 "amazonBookUrl": "https://www.amazon.com/Talking-Strangers-Should-about-People/dp/0316478520?tag=thenewyorktim-20",
                 "bookIsbn": "0316299227",
                 "mood": "Reflective",
-                "genre": [
-                    "Self-Help",
-                    "Non-Fiction"
-                ],
+                "genre": "Non-Fiction",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -1594,7 +1570,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0525657746?tag=thenewyorktim-20",
                 "bookIsbn": "1984898957",
                 "mood": "Sad",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -1986,10 +1962,7 @@
                 "amazonBookUrl": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=thenewyorktim-20",
                 "bookIsbn": "0545880831",
                 "mood": "Reflective",
-                "genre": [
-                    "Historical Fiction",
-                    "Children"
-                ],
+                "genre": "Children",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -2017,10 +1990,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1338634828?tag=thenewyorktim-20",
                 "bookIsbn": "1338634828",
                 "mood": "Adventurous",
-                "genre": [
-                    "Fantasy",
-                    "Children"
-                ],
+                "genre": "Children",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -2048,10 +2018,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0062995952?tag=thenewyorktim-20",
                 "bookIsbn": "0062995952",
                 "mood": "Inspirational",
-                "genre": [
-                    "Fiction",
-                    "Children"
-                ],
+                "genre": "Children",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -2079,10 +2046,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1524764205?tag=thenewyorktim-20",
                 "bookIsbn": "1524764205",
                 "mood": "Adventurous",
-                "genre": [
-                    "Fiction",
-                    "Children"
-                ],
+                "genre": "Children",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
@@ -2110,10 +2074,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1492667838?tag=thenewyorktim-20",
                 "bookIsbn": "1492667838",
                 "mood": "Inspirational",
-                "genre": [
-                    "Fiction",
-                    "Children"
-                ],
+                "genre": "Children",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -2141,10 +2102,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1728266181?tag=thenewyorktim-20",
                 "bookIsbn": "1728266181",
                 "mood": "Humorous",
-                "genre": [
-                    "Fiction",
-                    "Children"
-                ],
+                "genre": "Children",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -2200,10 +2158,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1728235871?tag=thenewyorktim-20",
                 "bookIsbn": "1728235871",
                 "mood": "Inspirational",
-                "genre": [
-                    "Fiction",
-                    "Children"
-                ],
+                "genre": "Children",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
@@ -2231,10 +2186,7 @@
                 "amazonBookUrl": "http://www.amazon.com/What-Do-You-Idea/dp/1938298071?tag=thenewyorktim-20",
                 "bookIsbn": "1957891343",
                 "mood": "Motivated",
-                "genre": [
-                    "Fiction",
-                    "Children"
-                ],
+                "genre": "Children",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
@@ -2262,10 +2214,7 @@
                 "amazonBookUrl": "https://www.amazon.com/Love-Hungry-Caterpillar-World-Carle/dp/152478589X?tag=thenewyorktim-20",
                 "bookIsbn": "152478589X",
                 "mood": "Happy",
-                "genre": [
-                    "Fiction",
-                    "Children"
-                ],
+                "genre": "Children",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -2293,7 +2242,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1538719770?tag=thenewyorktim-20",
                 "bookIsbn": "1538719762",
                 "mood": "Mysterious",
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -2433,7 +2382,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0593374169?tag=thenewyorktim-20",
                 "bookIsbn": "0593374193",
                 "mood": "Thrilled",
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -2517,7 +2466,7 @@
                 "amazonBookUrl": "http://www.amazon.com/Mockingjay-Final-Book-Hunger-Games/dp/0545663261?tag=thenewyorktim-20",
                 "bookIsbn": "0439023521",
                 "mood": "Thrilled",
-                "genre": "Science Fiction",
+                "genre": "Science-Fiction",
                 "bestSeller": true,
                 "rating": 5,
                 "reviews": [
@@ -2629,7 +2578,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0593374207?tag=thenewyorktim-20",
                 "bookIsbn": "0593374207",
                 "mood": "Mysterious",
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
@@ -2657,10 +2606,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1250857430?tag=thenewyorktim-20",
                 "bookIsbn": "1250857430",
                 "mood": "Romantic",
-                "genre": [
-                    "Science-Fiction",
-                    "Fantasy"
-                ],
+                "genre": "Science-Fiction",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -2719,10 +2665,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1250857457?tag=thenewyorktim-20",
                 "bookIsbn": "1250857457",
                 "mood": "Romantic",
-                "genre": [
-                    "Science-Fiction",
-                    "Fantasy"
-                ],
+                "genre": "Fantasy",
                 "bestSeller": true,
                 "rating": 5,
                 "reviews": [
@@ -2750,10 +2693,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1649377010?tag=thenewyorktim-20",
                 "bookIsbn": "1649377061",
                 "mood": "Adventurous",
-                "genre": [
-                    "Science-Fiction",
-                    "Fantasy"
-                ],
+                "genre": "Fantasy",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -2781,7 +2721,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0593492919?tag=thenewyorktim-20",
                 "bookIsbn": "0593789687",
                 "mood": "Mysterious",
-                "genre": "Mystery/Thriller",
+                "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -2837,7 +2777,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/0765382032?tag=thenewyorktim-20",
                 "bookIsbn": "1427251991",
                 "mood": "Thrilled",
-                "genre": "Science Fiction",
+                "genre": "Science-Fiction",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -2865,7 +2805,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1250880319?tag=thenewyorktim-20",
                 "bookIsbn": "",
                 "mood": "Mysterious",
-                "genre": "Crime/Detective",
+                "genre": "Crime",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -2921,7 +2861,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1668007207?tag=thenewyorktim-20",
                 "bookIsbn": "",
                 "mood": "Inspirational",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -2977,7 +2917,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1668009048?tag=thenewyorktim-20",
                 "bookIsbn": "",
                 "mood": "Nostalgic",
-                "genre": "Biography/Autobiography",
+                "genre": "Biography",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
@@ -3005,7 +2945,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1338896431?tag=thenewyorktim-20",
                 "bookIsbn": "1338896431",
                 "mood": "Humorous",
-                "genre": "Humor/Comedy",
+                "genre": "Humor",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -3061,7 +3001,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1338801910?tag=thenewyorktim-20",
                 "bookIsbn": "1338801910",
                 "mood": "Humorous",
-                "genre": "Humor/Comedy",
+                "genre": "Humor",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -3117,7 +3057,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1338896393?tag=thenewyorktim-20",
                 "bookIsbn": "",
                 "mood": "Humorous",
-                "genre": "Humor/Comedy",
+                "genre": "Humor",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
@@ -3145,7 +3085,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1338883046?tag=thenewyorktim-20",
                 "bookIsbn": "1338883046",
                 "mood": "Reflective",
-                "genre": "Historical Fiction",
+                "genre": "Historical-Fiction",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
@@ -3201,7 +3141,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1338835505?tag=thenewyorktim-20",
                 "bookIsbn": "1338835505",
                 "mood": "Humorous",
-                "genre": "Humor/Comedy",
+                "genre": "Humor",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
@@ -3229,7 +3169,7 @@
                 "amazonBookUrl": "https://www.amazon.com/dp/1338680455?tag=thenewyorktim-20",
                 "bookIsbn": "1338680455",
                 "mood": "Humorous",
-                "genre": "Humor/Comedy",
+                "genre": "Humor",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
