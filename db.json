@@ -14,19 +14,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "An epic tale with a lot of heart and excitement."
                     },
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     }
                 ],
-                "bookId": 1
+                "id": 1
             },
             {
                 "bookTitle": "MIND GAMES",
@@ -36,28 +36,25 @@
                 "bookPublisher": "St. Martin's",
                 "amazonBookUrl": "https://www.amazon.com/dp/1250289696?tag=thenewyorktim-20",
                 "bookIsbn": "125028970X",
-                "mood": [
-                    "Thrilled",
-                    "Mysterious"
-                ],
+                "mood": "Mysterious",
                 "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Riley Pink",
+                        "fullname": "Riley Pink",
                         "text": "Very good, but a bit predictable."
                     },
                     {
-                        "Fullname": "Alex Johnson",
+                        "fullname": "Alex Johnson",
                         "text": "An enjoyable read, but some parts were a bit slow."
                     },
                     {
-                        "Fullname": "Alex Red",
+                        "fullname": "Alex Red",
                         "text": "Decent book, but not my favorite."
                     }
                 ],
-                "bookId": 2
+                "id": 2
             },
             {
                 "bookTitle": "THE WOMEN",
@@ -73,19 +70,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Alex Johnson",
+                        "fullname": "Alex Johnson",
                         "text": "An enjoyable read, but some parts were a bit slow."
                     },
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     }
                 ],
-                "bookId": 3
+                "id": 3
             },
             {
                 "bookTitle": "FUNNY STORY",
@@ -95,28 +92,25 @@
                 "bookPublisher": "Berkley",
                 "amazonBookUrl": "https://www.amazon.com/dp/0593441281?tag=thenewyorktim-20",
                 "bookIsbn": "0593441281",
-                "mood": [
-                    "Humorous",
-                    "Romantic"
-                ],
+                "mood": "Romantic",
                 "genre": "Romance",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Reese Blue",
+                        "fullname": "Reese Blue",
                         "text": "Awful. Would not recommend at all."
                     },
                     {
-                        "Fullname": "Pat Taylor",
+                        "fullname": "Pat Taylor",
                         "text": "I struggled to finish this book. Not my taste."
                     },
                     {
-                        "Fullname": "Pat Blue",
+                        "fullname": "Pat Blue",
                         "text": "An unforgettable journey from start to finish."
                     }
                 ],
-                "bookId": 4
+                "id": 4
             },
             {
                 "bookTitle": "IT ENDS WITH US",
@@ -132,19 +126,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Morgan Gray",
+                        "fullname": "Morgan Gray",
                         "text": "An okay read. Not great, but not bad either."
                     },
                     {
-                        "Fullname": "Chris Red",
+                        "fullname": "Chris Red",
                         "text": "Great read with a few minor issues."
                     },
                     {
-                        "Fullname": "Dakota Red",
+                        "fullname": "Dakota Red",
                         "text": "Poorly written and uninteresting."
                     }
                 ],
-                "bookId": 5
+                "id": 5
             },
             {
                 "bookTitle": "JUST FOR THE SUMMER",
@@ -160,19 +154,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Pat White",
+                        "fullname": "Pat White",
                         "text": "Absolutely amazing. A must-read."
                     },
                     {
-                        "Fullname": "Casey Yellow",
+                        "fullname": "Casey Yellow",
                         "text": "Well-written with some memorable characters."
                     },
                     {
-                        "Fullname": "Pat Taylor",
+                        "fullname": "Pat Taylor",
                         "text": "I struggled to finish this book. Not my taste."
                     }
                 ],
-                "bookId": 6
+                "id": 6
             },
             {
                 "bookTitle": "A COURT OF THORNS AND ROSES",
@@ -188,19 +182,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     },
                     {
-                        "Fullname": "Casey Red",
+                        "fullname": "Casey Red",
                         "text": "Good book, but a bit too long."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     }
                 ],
-                "bookId": 7
+                "id": 7
             },
             {
                 "bookTitle": "ROMANCING MISTER BRIDGERTON",
@@ -210,28 +204,25 @@
                 "bookPublisher": "Avon",
                 "amazonBookUrl": "https://www.amazon.com/dp/1664457488?tag=thenewyorktim-20",
                 "bookIsbn": "0062424106",
-                "mood": [
-                    "Happy",
-                    "Romance"
-                ],
+                "mood": "Romantic",
                 "genre": "Romance",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Morgan Gray",
+                        "fullname": "Morgan Gray",
                         "text": "An okay read. Not great, but not bad either."
                     },
                     {
-                        "Fullname": "Chris Red",
+                        "fullname": "Chris Red",
                         "text": "Great read with a few minor issues."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     }
                 ],
-                "bookId": 8
+                "id": 8
             },
             {
                 "bookTitle": "ONE PERFECT COUPLE",
@@ -247,19 +238,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Chris Lee",
+                        "fullname": "Chris Lee",
                         "text": "Not quite what I expected, but had some good moments."
                     },
                     {
-                        "Fullname": "Sam Green",
+                        "fullname": "Sam Green",
                         "text": "Terrible. Do not waste your time."
                     },
                     {
-                        "Fullname": "Reese Red",
+                        "fullname": "Reese Red",
                         "text": "I couldn't finish it. Not engaging at all."
                     }
                 ],
-                "bookId": 9
+                "id": 9
             },
             {
                 "bookTitle": "TOM CLANCY: ACT OF DEFIANCE",
@@ -275,19 +266,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Pat Blue",
+                        "fullname": "Pat Blue",
                         "text": "An unforgettable journey from start to finish."
                     },
                     {
-                        "Fullname": "Alex Pink",
+                        "fullname": "Alex Pink",
                         "text": "It was alright. Not great, not terrible."
                     },
                     {
-                        "Fullname": "Sam Pink",
+                        "fullname": "Sam Pink",
                         "text": "A decent read for a rainy day."
                     }
                 ],
-                "bookId": 10
+                "id": 10
             },
             {
                 "bookTitle": "THIS SUMMER WILL BE DIFFERENT",
@@ -297,25 +288,25 @@
                 "bookPublisher": "Berkley",
                 "amazonBookUrl": "https://www.amazon.com/dp/0593638883?tag=thenewyorktim-20",
                 "bookIsbn": "0593638883",
-                "mood": " Romantic",
+                "mood": "Romantic",
                 "genre": " Romance",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     },
                     {
-                        "Fullname": "Chris Red",
+                        "fullname": "Chris Red",
                         "text": "Great read with a few minor issues."
                     },
                     {
-                        "Fullname": "Chris Red",
+                        "fullname": "Chris Red",
                         "text": "Great read with a few minor issues."
                     }
                 ],
-                "bookId": 11
+                "id": 11
             },
             {
                 "bookTitle": "HEAVENBREAKER",
@@ -331,19 +322,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Skyler Yellow",
+                        "fullname": "Skyler Yellow",
                         "text": "I struggled to stay interested."
                     },
                     {
-                        "Fullname": "Jamie Yellow",
+                        "fullname": "Jamie Yellow",
                         "text": "Engaging and beautifully written."
                     },
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     }
                 ],
-                "bookId": 12
+                "id": 12
             },
             {
                 "bookTitle": "A COURT OF MIST AND FURY",
@@ -359,19 +350,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     },
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     }
                 ],
-                "bookId": 13
+                "id": 13
             },
             {
                 "bookTitle": "THE HOUSEMAID",
@@ -387,19 +378,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Morgan Red",
+                        "fullname": "Morgan Red",
                         "text": "Boring and uninspired."
                     },
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     },
                     {
-                        "Fullname": "Riley Brown",
+                        "fullname": "Riley Brown",
                         "text": "Solid book with a good mix of action and drama."
                     }
                 ],
-                "bookId": 14
+                "id": 14
             },
             {
                 "bookTitle": "THINK TWICE",
@@ -409,28 +400,25 @@
                 "bookPublisher": "Grand Central",
                 "amazonBookUrl": "https://www.amazon.com/dp/1538756315?tag=thenewyorktim-20",
                 "bookIsbn": "1538756315",
-                "mood": [
-                    "Thrilled",
-                    "Mysterious"
-                ],
+                "mood": "Mysterious",
                 "genre": " Mystery",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Reese Blue",
+                        "fullname": "Reese Blue",
                         "text": "Awful. Would not recommend at all."
                     },
                     {
-                        "Fullname": "Alex Johnson",
+                        "fullname": "Alex Johnson",
                         "text": "An enjoyable read, but some parts were a bit slow."
                     },
                     {
-                        "Fullname": "Sam Pink",
+                        "fullname": "Sam Pink",
                         "text": "A decent read for a rainy day."
                     }
                 ],
-                "bookId": 15
+                "id": 15
             },
             {
                 "bookTitle": "WHAT THIS COMEDIAN SAID WILL SHOCK YOU",
@@ -446,19 +434,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Sam White",
+                        "fullname": "Sam White",
                         "text": "Not bad, but not memorable either."
                     },
                     {
-                        "Fullname": "Skyler Yellow",
+                        "fullname": "Skyler Yellow",
                         "text": "I struggled to stay interested."
                     },
                     {
-                        "Fullname": "Sam Morgan",
+                        "fullname": "Sam Morgan",
                         "text": "Absolutely fantastic! Couldn’t put it down."
                     }
                 ],
-                "bookId": 16
+                "id": 16
             },
             {
                 "bookTitle": "THE DEMON OF UNREST",
@@ -474,19 +462,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Pat Pink",
+                        "fullname": "Pat Pink",
                         "text": "Loved it! Would read again."
                     },
                     {
-                        "Fullname": "Chris Yellow",
+                        "fullname": "Chris Yellow",
                         "text": "Great story, but the ending was a bit rushed."
                     },
                     {
-                        "Fullname": "Jamie Yellow",
+                        "fullname": "Jamie Yellow",
                         "text": "Engaging and beautifully written."
                     }
                 ],
-                "bookId": 17
+                "id": 17
             },
             {
                 "bookTitle": "THE ANXIOUS GENERATION",
@@ -502,19 +490,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Dakota Red",
+                        "fullname": "Dakota Red",
                         "text": "Poorly written and uninteresting."
                     },
                     {
-                        "Fullname": "Taylor Pink",
+                        "fullname": "Taylor Pink",
                         "text": "I had high hopes, but it didn't deliver."
                     },
                     {
-                        "Fullname": "Pat Taylor",
+                        "fullname": "Pat Taylor",
                         "text": "I struggled to finish this book. Not my taste."
                     }
                 ],
-                "bookId": 18
+                "id": 18
             },
             {
                 "bookTitle": "THE SITUATION ROOM",
@@ -530,19 +518,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     },
                     {
-                        "Fullname": "Reese Red",
+                        "fullname": "Reese Red",
                         "text": "I couldn't finish it. Not engaging at all."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     }
                 ],
-                "bookId": 19
+                "id": 19
             },
             {
                 "bookTitle": "ONCE UPON A TIME",
@@ -558,19 +546,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Morgan Gray",
+                        "fullname": "Morgan Gray",
                         "text": "An okay read. Not great, but not bad either."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     },
                     {
-                        "Fullname": "Chris Green",
+                        "fullname": "Chris Green",
                         "text": "Very enjoyable with a few slow parts."
                     }
                 ],
-                "bookId": 20
+                "id": 20
             },
             {
                 "bookTitle": "THE BODY KEEPS THE SCORE",
@@ -586,19 +574,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Taylor Red",
+                        "fullname": "Taylor Red",
                         "text": "Didn’t live up to my expectations."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "Jamie Yellow",
+                        "fullname": "Jamie Yellow",
                         "text": "Engaging and beautifully written."
                     }
                 ],
-                "bookId": 21
+                "id": 21
             },
             {
                 "bookTitle": "WHAT A FOOL BELIEVES",
@@ -614,19 +602,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Casey Red",
+                        "fullname": "Casey Red",
                         "text": "Good book, but a bit too long."
                     },
                     {
-                        "Fullname": "Casey Red",
+                        "fullname": "Casey Red",
                         "text": "Good book, but a bit too long."
                     },
                     {
-                        "Fullname": "Jordan Green",
+                        "fullname": "Jordan Green",
                         "text": "The storyline was predictable and unoriginal."
                     }
                 ],
-                "bookId": 22
+                "id": 22
             },
             {
                 "bookTitle": "AN UNFINISHED LOVE STORY",
@@ -642,19 +630,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Casey Yellow",
+                        "fullname": "Casey Yellow",
                         "text": "Well-written with some memorable characters."
                     },
                     {
-                        "Fullname": "Chris Red",
+                        "fullname": "Chris Red",
                         "text": "Great read with a few minor issues."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     }
                 ],
-                "bookId": 23
+                "id": 23
             },
             {
                 "bookTitle": "BITS AND PIECES",
@@ -670,19 +658,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Blue",
+                        "fullname": "Jordan Blue",
                         "text": "A true work of art. Loved every page."
                     },
                     {
-                        "Fullname": "Pat White",
+                        "fullname": "Pat White",
                         "text": "Absolutely amazing. A must-read."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     }
                 ],
-                "bookId": 24
+                "id": 24
             },
             {
                 "bookTitle": "THE END OF EVERYTHING",
@@ -698,19 +686,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Pat Blue",
+                        "fullname": "Pat Blue",
                         "text": "An unforgettable journey from start to finish."
                     },
                     {
-                        "Fullname": "Morgan Red",
+                        "fullname": "Morgan Red",
                         "text": "Boring and uninspired."
                     },
                     {
-                        "Fullname": "Jordan Gray",
+                        "fullname": "Jordan Gray",
                         "text": "Exceptional. One of the best books I've read."
                     }
                 ],
-                "bookId": 25
+                "id": 25
             },
             {
                 "bookTitle": "YOU NEVER KNOW",
@@ -726,19 +714,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     },
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     }
                 ],
-                "bookId": 26
+                "id": 26
             },
             {
                 "bookTitle": "OUTLIVE",
@@ -754,19 +742,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     },
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     },
                     {
-                        "Fullname": "Alex Blue",
+                        "fullname": "Alex Blue",
                         "text": "A masterpiece! Highly recommend it to everyone."
                     }
                 ],
-                "bookId": 27
+                "id": 27
             },
             {
                 "bookTitle": "THE WAGER",
@@ -782,19 +770,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Taylor Pink",
+                        "fullname": "Taylor Pink",
                         "text": "I had high hopes, but it didn't deliver."
                     },
                     {
-                        "Fullname": "Alex Pink",
+                        "fullname": "Alex Pink",
                         "text": "It was alright. Not great, not terrible."
                     },
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     }
                 ],
-                "bookId": 28
+                "id": 28
             },
             {
                 "bookTitle": "FOURTH WING",
@@ -810,19 +798,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Green",
+                        "fullname": "Jordan Green",
                         "text": "The storyline was predictable and unoriginal."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "Alex Johnson",
+                        "fullname": "Alex Johnson",
                         "text": "An enjoyable read, but some parts were a bit slow."
                     }
                 ],
-                "bookId": 29
+                "id": 29
             },
             {
                 "bookTitle": "THE 24TH HOUR",
@@ -838,19 +826,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "An epic tale with a lot of heart and excitement."
                     },
                     {
-                        "Fullname": "Taylor Red",
+                        "fullname": "Taylor Red",
                         "text": "Didn’t live up to my expectations."
                     },
                     {
-                        "Fullname": "Dakota Red",
+                        "fullname": "Dakota Red",
                         "text": "Poorly written and uninteresting."
                     }
                 ],
-                "bookId": 30
+                "id": 30
             },
             {
                 "bookTitle": "FIVE BROKEN BLADES",
@@ -866,19 +854,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Riley Pink",
+                        "fullname": "Riley Pink",
                         "text": "Very good, but a bit predictable."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     },
                     {
-                        "Fullname": "Reese Green",
+                        "fullname": "Reese Green",
                         "text": "Really bad. Do not recommend."
                     }
                 ],
-                "bookId": 31
+                "id": 31
             },
             {
                 "bookTitle": "LIES AND WEDDINGS",
@@ -894,19 +882,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Riley Brown",
+                        "fullname": "Riley Brown",
                         "text": "Solid book with a good mix of action and drama."
                     },
                     {
-                        "Fullname": "Casey Red",
+                        "fullname": "Casey Red",
                         "text": "Good book, but a bit too long."
                     },
                     {
-                        "Fullname": "Pat Pink",
+                        "fullname": "Pat Pink",
                         "text": "Loved it! Would read again."
                     }
                 ],
-                "bookId": 32
+                "id": 32
             },
             {
                 "bookTitle": "HOME IS WHERE THE BODIES ARE",
@@ -922,19 +910,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Taylor Pink",
+                        "fullname": "Taylor Pink",
                         "text": "I had high hopes, but it didn't deliver."
                     },
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     },
                     {
-                        "Fullname": "Morgan Red",
+                        "fullname": "Morgan Red",
                         "text": "Boring and uninspired."
                     }
                 ],
-                "bookId": 33
+                "id": 33
             },
             {
                 "bookTitle": "A CALAMITY OF SOULS",
@@ -944,25 +932,25 @@
                 "bookPublisher": "Grand Central",
                 "amazonBookUrl": "https://www.amazon.com/dp/1538765020?tag=thenewyorktim-20",
                 "bookIsbn": "1538765020",
-                "mood": " Adventurous",
+                "mood": "Adventurous",
                 "genre": "Crime",
                 "bestSeller": false,
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Pink",
+                        "fullname": "Jordan Pink",
                         "text": "Average book. Some good moments, some bad."
                     },
                     {
-                        "Fullname": "Alex Johnson",
+                        "fullname": "Alex Johnson",
                         "text": "An enjoyable read, but some parts were a bit slow."
                     },
                     {
-                        "Fullname": "Pat Blue",
+                        "fullname": "Pat Blue",
                         "text": "An unforgettable journey from start to finish."
                     }
                 ],
-                "bookId": 34
+                "id": 34
             },
             {
                 "bookTitle": "THE SITUATION ROOM",
@@ -978,19 +966,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jamie Yellow",
+                        "fullname": "Jamie Yellow",
                         "text": "Engaging and beautifully written."
                     },
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "An epic tale with a lot of heart and excitement."
                     }
                 ],
-                "bookId": 35
+                "id": 35
             },
             {
                 "bookTitle": "IN MY TIME OF DYING",
@@ -1006,19 +994,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Blue",
+                        "fullname": "Jordan Blue",
                         "text": "A true work of art. Loved every page."
                     },
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     },
                     {
-                        "Fullname": "Casey White",
+                        "fullname": "Casey White",
                         "text": "Good book with a few slow parts."
                     }
                 ],
-                "bookId": 36
+                "id": 36
             },
             {
                 "bookTitle": "I'M GLAD MY MOM DIED",
@@ -1034,19 +1022,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     },
                     {
-                        "Fullname": "Riley Brown",
+                        "fullname": "Riley Brown",
                         "text": "Solid book with a good mix of action and drama."
                     },
                     {
-                        "Fullname": "Jamie Yellow",
+                        "fullname": "Jamie Yellow",
                         "text": "Engaging and beautifully written."
                     }
                 ],
-                "bookId": 37
+                "id": 37
             },
             {
                 "bookTitle": "HAPPY PLACE",
@@ -1062,19 +1050,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Taylor Pink",
+                        "fullname": "Taylor Pink",
                         "text": "I had high hopes, but it didn't deliver."
                     },
                     {
-                        "Fullname": "Taylor Red",
+                        "fullname": "Taylor Red",
                         "text": "Didn’t live up to my expectations."
                     },
                     {
-                        "Fullname": "Reese Blue",
+                        "fullname": "Reese Blue",
                         "text": "Awful. Would not recommend at all."
                     }
                 ],
-                "bookId": 38
+                "id": 38
             },
             {
                 "bookTitle": "TWISTED LOVE",
@@ -1090,19 +1078,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Alex Red",
+                        "fullname": "Alex Red",
                         "text": "Decent book, but not my favorite."
                     },
                     {
-                        "Fullname": "Pat Taylor",
+                        "fullname": "Pat Taylor",
                         "text": "I struggled to finish this book. Not my taste."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     }
                 ],
-                "bookId": 39
+                "id": 39
             },
             {
                 "bookTitle": "KING OF SLOTH",
@@ -1118,19 +1106,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     },
                     {
-                        "Fullname": "Jordan Green",
+                        "fullname": "Jordan Green",
                         "text": "The storyline was predictable and unoriginal."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "An epic tale with a lot of heart and excitement."
                     }
                 ],
-                "bookId": 40
+                "id": 40
             },
             {
                 "bookTitle": "IT STARTS WITH US",
@@ -1146,19 +1134,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Blue",
+                        "fullname": "Jordan Blue",
                         "text": "A true work of art. Loved every page."
                     },
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     },
                     {
-                        "Fullname": "Jamie Blue",
+                        "fullname": "Jamie Blue",
                         "text": "Terrible book. Complete waste of time."
                     }
                 ],
-                "bookId": 41
+                "id": 41
             },
             {
                 "bookTitle": "A COURT OF WINGS AND RUIN",
@@ -1174,19 +1162,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Taylor Pink",
+                        "fullname": "Taylor Pink",
                         "text": "I had high hopes, but it didn't deliver."
                     },
                     {
-                        "Fullname": "Pat White",
+                        "fullname": "Pat White",
                         "text": "Absolutely amazing. A must-read."
                     },
                     {
-                        "Fullname": "Pat Blue",
+                        "fullname": "Pat Blue",
                         "text": "An unforgettable journey from start to finish."
                     }
                 ],
-                "bookId": 42
+                "id": 42
             },
             {
                 "bookTitle": "MURDER YOUR EMPLOYER",
@@ -1196,28 +1184,25 @@
                 "bookPublisher": "Avid Reader",
                 "amazonBookUrl": "https://www.amazon.com/dp/1451648219?tag=thenewyorktim-20",
                 "bookIsbn": "1451648227",
-                "mood": [
-                    "Mysterious",
-                    "Thrilled"
-                ],
+                "mood":  "Mysterious",
                 "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     },
                     {
-                        "Fullname": "Jamie Yellow",
+                        "fullname": "Jamie Yellow",
                         "text": "Engaging and beautifully written."
                     },
                     {
-                        "Fullname": "Sam Morgan",
+                        "fullname": "Sam Morgan",
                         "text": "Absolutely fantastic! Couldn’t put it down."
                     }
                 ],
-                "bookId": 43
+                "id": 43
             },
             {
                 "bookTitle": "VERITY",
@@ -1233,19 +1218,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Jamie Brown",
+                        "fullname": "Jamie Brown",
                         "text": "A well-written book with engaging characters."
                     },
                     {
-                        "Fullname": "Chris Green",
+                        "fullname": "Chris Green",
                         "text": "Very enjoyable with a few slow parts."
                     },
                     {
-                        "Fullname": "Taylor Red",
+                        "fullname": "Taylor Red",
                         "text": "Didn’t live up to my expectations."
                     }
                 ],
-                "bookId": 44
+                "id": 44
             },
             {
                 "bookTitle": "ICEBREAKER",
@@ -1255,28 +1240,25 @@
                 "bookPublisher": "Atria",
                 "amazonBookUrl": "https://www.amazon.com/dp/1668026031?tag=thenewyorktim-20",
                 "bookIsbn": "1668026031",
-                "mood": [
-                    "Happy",
-                    "Romantic"
-                ],
+                "mood":  "Happy",
                 "genre": "Romance",
                 "bestSeller": false,
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Sam Green",
+                        "fullname": "Sam Green",
                         "text": "Terrible. Do not waste your time."
                     },
                     {
-                        "Fullname": "Chris Red",
+                        "fullname": "Chris Red",
                         "text": "Great read with a few minor issues."
                     },
                     {
-                        "Fullname": "Jamie Brown",
+                        "fullname": "Jamie Brown",
                         "text": "A well-written book with engaging characters."
                     }
                 ],
-                "bookId": 45
+                "id": 45
             },
             {
                 "bookTitle": "THE LIGHT WE CARRY",
@@ -1292,19 +1274,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     },
                     {
-                        "Fullname": "Skyler Yellow",
+                        "fullname": "Skyler Yellow",
                         "text": "I struggled to stay interested."
                     },
                     {
-                        "Fullname": "Jordan Gray",
+                        "fullname": "Jordan Gray",
                         "text": "Exceptional. One of the best books I've read."
                     }
                 ],
-                "bookId": 46
+                "id": 46
             },
             {
                 "bookTitle": "BRAIDING SWEETGRASS",
@@ -1320,19 +1302,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     },
                     {
-                        "Fullname": "Morgan Gray",
+                        "fullname": "Morgan Gray",
                         "text": "An okay read. Not great, but not bad either."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     }
                 ],
-                "bookId": 47
+                "id": 47
             },
             {
                 "bookTitle": "THINKING, FAST AND SLOW",
@@ -1348,19 +1330,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Alex Pink",
+                        "fullname": "Alex Pink",
                         "text": "It was alright. Not great, not terrible."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "Sam Green",
+                        "fullname": "Sam Green",
                         "text": "Terrible. Do not waste your time."
                     }
                 ],
-                "bookId": 48
+                "id": 48
             },
             {
                 "bookTitle": "EVERYTHING I KNOW ABOUT LOVE",
@@ -1376,19 +1358,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Morgan Red",
+                        "fullname": "Morgan Red",
                         "text": "Boring and uninspired."
                     },
                     {
-                        "Fullname": "Casey Red",
+                        "fullname": "Casey Red",
                         "text": "Good book, but a bit too long."
                     },
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     }
                 ],
-                "bookId": 49
+                "id": 49
             },
             {
                 "bookTitle": "KILLERS OF THE FLOWER MOON",
@@ -1404,19 +1386,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Casey White",
+                        "fullname": "Casey White",
                         "text": "Good book with a few slow parts."
                     },
                     {
-                        "Fullname": "Riley Pink",
+                        "fullname": "Riley Pink",
                         "text": "Very good, but a bit predictable."
                     },
                     {
-                        "Fullname": "Pat Pink",
+                        "fullname": "Pat Pink",
                         "text": "Loved it! Would read again."
                     }
                 ],
-                "bookId": 50
+                "id": 50
             },
             {
                 "bookTitle": "THINK AGAIN",
@@ -1432,19 +1414,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Casey Red",
+                        "fullname": "Casey Red",
                         "text": "Good book, but a bit too long."
                     },
                     {
-                        "Fullname": "Morgan Red",
+                        "fullname": "Morgan Red",
                         "text": "Boring and uninspired."
                     },
                     {
-                        "Fullname": "Alex Pink",
+                        "fullname": "Alex Pink",
                         "text": "It was alright. Not great, not terrible."
                     }
                 ],
-                "bookId": 51
+                "id": 51
             },
             {
                 "bookTitle": "THE HUNDRED YEARS' WAR ON PALESTINE",
@@ -1460,19 +1442,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Chris Lee",
+                        "fullname": "Chris Lee",
                         "text": "Not quite what I expected, but had some good moments."
                     },
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     },
                     {
-                        "Fullname": "Casey Yellow",
+                        "fullname": "Casey Yellow",
                         "text": "Well-written with some memorable characters."
                     }
                 ],
-                "bookId": 52
+                "id": 52
             },
             {
                 "bookTitle": "THE SPLENDID AND THE VILE",
@@ -1488,19 +1470,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     },
                     {
-                        "Fullname": "Morgan Gray",
+                        "fullname": "Morgan Gray",
                         "text": "An okay read. Not great, but not bad either."
                     },
                     {
-                        "Fullname": "Reese Red",
+                        "fullname": "Reese Red",
                         "text": "I couldn't finish it. Not engaging at all."
                     }
                 ],
-                "bookId": 53
+                "id": 53
             },
             {
                 "bookTitle": "THE DEVIL IN THE WHITE CITY",
@@ -1510,28 +1492,25 @@
                 "bookPublisher": "Vintage",
                 "amazonBookUrl": "http://www.amazon.com/The-Devil-White-City-Madness/dp/0375725601?tag=thenewyorktim-20",
                 "bookIsbn": "0375725601",
-                "mood": [
-                    "Thrilled",
-                    "Mysterious"
-                ],
+                "mood":  "Mysterious",
                 "genre": "Mystery",
                 "bestSeller": false,
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     },
                     {
-                        "Fullname": "Casey Yellow",
+                        "fullname": "Casey Yellow",
                         "text": "Well-written with some memorable characters."
                     },
                     {
-                        "Fullname": "Jordan Blue",
+                        "fullname": "Jordan Blue",
                         "text": "A true work of art. Loved every page."
                     }
                 ],
-                "bookId": 54
+                "id": 54
             },
             {
                 "bookTitle": "TALKING TO STRANGERS",
@@ -1547,19 +1526,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Casey White",
+                        "fullname": "Casey White",
                         "text": "Good book with a few slow parts."
                     },
                     {
-                        "Fullname": "Alex Red",
+                        "fullname": "Alex Red",
                         "text": "Decent book, but not my favorite."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     }
                 ],
-                "bookId": 55
+                "id": 55
             },
             {
                 "bookTitle": "CRYING IN H MART",
@@ -1575,19 +1554,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Casey Red",
+                        "fullname": "Casey Red",
                         "text": "Good book, but a bit too long."
                     },
                     {
-                        "Fullname": "Alex Red",
+                        "fullname": "Alex Red",
                         "text": "Decent book, but not my favorite."
                     },
                     {
-                        "Fullname": "Jordan Green",
+                        "fullname": "Jordan Green",
                         "text": "The storyline was predictable and unoriginal."
                     }
                 ],
-                "bookId": 56
+                "id": 56
             },
             {
                 "bookTitle": "ALL ABOUT LOVE",
@@ -1603,19 +1582,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Alex Johnson",
+                        "fullname": "Alex Johnson",
                         "text": "An enjoyable read, but some parts were a bit slow."
                     },
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     },
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     }
                 ],
-                "bookId": 57
+                "id": 57
             },
             {
                 "bookTitle": "POVERTY, BY AMERICA",
@@ -1631,19 +1610,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     },
                     {
-                        "Fullname": "Reese Blue",
+                        "fullname": "Reese Blue",
                         "text": "Awful. Would not recommend at all."
                     },
                     {
-                        "Fullname": "Jordan Pink",
+                        "fullname": "Jordan Pink",
                         "text": "Average book. Some good moments, some bad."
                     }
                 ],
-                "bookId": 58
+                "id": 58
             },
             {
                 "bookTitle": "ATOMIC HABITS",
@@ -1659,19 +1638,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     },
                     {
-                        "Fullname": "Sam Pink",
+                        "fullname": "Sam Pink",
                         "text": "A decent read for a rainy day."
                     },
                     {
-                        "Fullname": "Alex Pink",
+                        "fullname": "Alex Pink",
                         "text": "It was alright. Not great, not terrible."
                     }
                 ],
-                "bookId": 59
+                "id": 59
             },
             {
                 "bookTitle": "GOOD ENERGY",
@@ -1687,19 +1666,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Sam Pink",
+                        "fullname": "Sam Pink",
                         "text": "A decent read for a rainy day."
                     },
                     {
-                        "Fullname": "Chris Lee",
+                        "fullname": "Chris Lee",
                         "text": "Not quite what I expected, but had some good moments."
                     },
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     }
                 ],
-                "bookId": 60
+                "id": 60
             },
             {
                 "bookTitle": "DAY TRADING ATTENTION",
@@ -1715,19 +1694,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Sam Pink",
+                        "fullname": "Sam Pink",
                         "text": "A decent read for a rainy day."
                     },
                     {
-                        "Fullname": "Pat Pink",
+                        "fullname": "Pat Pink",
                         "text": "Loved it! Would read again."
                     },
                     {
-                        "Fullname": "Jamie Blue",
+                        "fullname": "Jamie Blue",
                         "text": "Terrible book. Complete waste of time."
                     }
                 ],
-                "bookId": 61
+                "id": 61
             },
             {
                 "bookTitle": "THE CREATIVE ACT",
@@ -1743,19 +1722,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Jamie Yellow",
+                        "fullname": "Jamie Yellow",
                         "text": "Engaging and beautifully written."
                     },
                     {
-                        "Fullname": "Reese Green",
+                        "fullname": "Reese Green",
                         "text": "Really bad. Do not recommend."
                     },
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     }
                 ],
-                "bookId": 62
+                "id": 62
             },
             {
                 "bookTitle": "MAKE YOUR BED",
@@ -1771,19 +1750,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     }
                 ],
-                "bookId": 63
+                "id": 63
             },
             {
                 "bookTitle": "TAKE BACK YOUR BRAIN",
@@ -1799,19 +1778,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Blue",
+                        "fullname": "Jordan Blue",
                         "text": "A true work of art. Loved every page."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     }
                 ],
-                "bookId": 64
+                "id": 64
             },
             {
                 "bookTitle": "WONDER",
@@ -1827,19 +1806,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Sam Green",
+                        "fullname": "Sam Green",
                         "text": "Terrible. Do not waste your time."
                     },
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     },
                     {
-                        "Fullname": "Jordan Pink",
+                        "fullname": "Jordan Pink",
                         "text": "Average book. Some good moments, some bad."
                     }
                 ],
-                "bookId": 65
+                "id": 65
             },
             {
                 "bookTitle": "THE MISFITS: A ROYAL CONUNDRUM",
@@ -1855,19 +1834,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Pink",
+                        "fullname": "Jordan Pink",
                         "text": "Average book. Some good moments, some bad."
                     },
                     {
-                        "Fullname": "Taylor Pink",
+                        "fullname": "Taylor Pink",
                         "text": "I had high hopes, but it didn't deliver."
                     },
                     {
-                        "Fullname": "Chris Green",
+                        "fullname": "Chris Green",
                         "text": "Very enjoyable with a few slow parts."
                     }
                 ],
-                "bookId": 66
+                "id": 66
             },
             {
                 "bookTitle": "HEROES",
@@ -1883,19 +1862,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Sam White",
+                        "fullname": "Sam White",
                         "text": "Not bad, but not memorable either."
                     },
                     {
-                        "Fullname": "Jamie Brown",
+                        "fullname": "Jamie Brown",
                         "text": "A well-written book with engaging characters."
                     },
                     {
-                        "Fullname": "Dakota Red",
+                        "fullname": "Dakota Red",
                         "text": "Poorly written and uninteresting."
                     }
                 ],
-                "bookId": 67
+                "id": 67
             },
             {
                 "bookTitle": "ODDER",
@@ -1911,19 +1890,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     },
                     {
-                        "Fullname": "Alex Blue",
+                        "fullname": "Alex Blue",
                         "text": "A masterpiece! Highly recommend it to everyone."
                     },
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     }
                 ],
-                "bookId": 68
+                "id": 68
             },
             {
                 "bookTitle": "THE SUN AND THE STAR",
@@ -1939,19 +1918,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Reese Blue",
+                        "fullname": "Reese Blue",
                         "text": "Awful. Would not recommend at all."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     }
                 ],
-                "bookId": 69
+                "id": 69
             },
             {
                 "bookTitle": "REFUGEE",
@@ -1967,19 +1946,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     },
                     {
-                        "Fullname": "Chris Lee",
+                        "fullname": "Chris Lee",
                         "text": "Not quite what I expected, but had some good moments."
                     },
                     {
-                        "Fullname": "Alex Blue",
+                        "fullname": "Alex Blue",
                         "text": "A masterpiece! Highly recommend it to everyone."
                     }
                 ],
-                "bookId": 70
+                "id": 70
             },
             {
                 "bookTitle": "WINGS OF FIRE: A GUIDE TO THE DRAGON WORLD",
@@ -1995,19 +1974,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jamie Brown",
+                        "fullname": "Jamie Brown",
                         "text": "A well-written book with engaging characters."
                     },
                     {
-                        "Fullname": "Chris Lee",
+                        "fullname": "Chris Lee",
                         "text": "Not quite what I expected, but had some good moments."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     }
                 ],
-                "bookId": 71
+                "id": 71
             },
             {
                 "bookTitle": "A HORSE NAMED SKY",
@@ -2023,19 +2002,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Alex Red",
+                        "fullname": "Alex Red",
                         "text": "Decent book, but not my favorite."
                     },
                     {
-                        "Fullname": "Jamie Blue",
+                        "fullname": "Jamie Blue",
                         "text": "Terrible book. Complete waste of time."
                     },
                     {
-                        "Fullname": "Jamie Brown",
+                        "fullname": "Jamie Brown",
                         "text": "A well-written book with engaging characters."
                     }
                 ],
-                "bookId": 72
+                "id": 72
             },
             {
                 "bookTitle": "THE EYES AND THE IMPOSSIBLE",
@@ -2051,19 +2030,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Pat Blue",
+                        "fullname": "Pat Blue",
                         "text": "An unforgettable journey from start to finish."
                     },
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     },
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     }
                 ],
-                "bookId": 73
+                "id": 73
             },
             {
                 "bookTitle": "WHY A DAUGHTER NEEDS A DAD",
@@ -2079,19 +2058,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Morgan Red",
+                        "fullname": "Morgan Red",
                         "text": "Boring and uninspired."
                     },
                     {
-                        "Fullname": "Jamie Brown",
+                        "fullname": "Jamie Brown",
                         "text": "A well-written book with engaging characters."
                     },
                     {
-                        "Fullname": "Sam Green",
+                        "fullname": "Sam Green",
                         "text": "Terrible. Do not waste your time."
                     }
                 ],
-                "bookId": 74
+                "id": 74
             },
             {
                 "bookTitle": "HOW TO CATCH A DADDYSAURUS",
@@ -2107,19 +2086,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Pat White",
+                        "fullname": "Pat White",
                         "text": "Absolutely amazing. A must-read."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     },
                     {
-                        "Fullname": "Jordan Pink",
+                        "fullname": "Jordan Pink",
                         "text": "Average book. Some good moments, some bad."
                     }
                 ],
-                "bookId": 75
+                "id": 75
             },
             {
                 "bookTitle": "BECAUSE I HAD A TEACHER",
@@ -2135,19 +2114,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     },
                     {
-                        "Fullname": "Sam Morgan",
+                        "fullname": "Sam Morgan",
                         "text": "Absolutely fantastic! Couldn’t put it down."
                     },
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     }
                 ],
-                "bookId": 76
+                "id": 76
             },
             {
                 "bookTitle": "WHY A SON NEEDS A DAD",
@@ -2163,19 +2142,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Riley Brown",
+                        "fullname": "Riley Brown",
                         "text": "Solid book with a good mix of action and drama."
                     },
                     {
-                        "Fullname": "Sam White",
+                        "fullname": "Sam White",
                         "text": "Not bad, but not memorable either."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     }
                 ],
-                "bookId": 77
+                "id": 77
             },
             {
                 "bookTitle": "WHAT DO YOU DO WITH AN IDEA?",
@@ -2191,19 +2170,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Blue",
+                        "fullname": "Jordan Blue",
                         "text": "A true work of art. Loved every page."
                     },
                     {
-                        "Fullname": "Reese Blue",
+                        "fullname": "Reese Blue",
                         "text": "Awful. Would not recommend at all."
                     },
                     {
-                        "Fullname": "Alex Pink",
+                        "fullname": "Alex Pink",
                         "text": "It was alright. Not great, not terrible."
                     }
                 ],
-                "bookId": 78
+                "id": 78
             },
             {
                 "bookTitle": "I LOVE DAD WITH THE VERY HUNGRY CATERPILLAR",
@@ -2219,19 +2198,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     },
                     {
-                        "Fullname": "Chris Yellow",
+                        "fullname": "Chris Yellow",
                         "text": "Great story, but the ending was a bit rushed."
                     },
                     {
-                        "Fullname": "Jamie Brown",
+                        "fullname": "Jamie Brown",
                         "text": "A well-written book with engaging characters."
                     }
                 ],
-                "bookId": 79
+                "id": 79
             },
             {
                 "bookTitle": "DREAM TOWN",
@@ -2247,19 +2226,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Sam Green",
+                        "fullname": "Sam Green",
                         "text": "Terrible. Do not waste your time."
                     },
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     },
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     }
                 ],
-                "bookId": 80
+                "id": 80
             },
             {
                 "bookTitle": "IF ONLY I HAD TOLD HER",
@@ -2275,19 +2254,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Pat Taylor",
+                        "fullname": "Pat Taylor",
                         "text": "I struggled to finish this book. Not my taste."
                     },
                     {
-                        "Fullname": "Casey Yellow",
+                        "fullname": "Casey Yellow",
                         "text": "Well-written with some memorable characters."
                     },
                     {
-                        "Fullname": "Alex Blue",
+                        "fullname": "Alex Blue",
                         "text": "A masterpiece! Highly recommend it to everyone."
                     }
                 ],
-                "bookId": 81
+                "id": 81
             },
             {
                 "bookTitle": "IF HE HAD BEEN WITH ME",
@@ -2303,19 +2282,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Chris Yellow",
+                        "fullname": "Chris Yellow",
                         "text": "Great story, but the ending was a bit rushed."
                     },
                     {
-                        "Fullname": "Jordan Green",
+                        "fullname": "Jordan Green",
                         "text": "The storyline was predictable and unoriginal."
                     },
                     {
-                        "Fullname": "Dakota White",
+                        "fullname": "Dakota White",
                         "text": "It was okay, but I wouldn't read it again."
                     }
                 ],
-                "bookId": 82
+                "id": 82
             },
             {
                 "bookTitle": "BETTER THAN THE MOVIES",
@@ -2331,19 +2310,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     },
                     {
-                        "Fullname": "Alex Johnson",
+                        "fullname": "Alex Johnson",
                         "text": "An enjoyable read, but some parts were a bit slow."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     }
                 ],
-                "bookId": 83
+                "id": 83
             },
             {
                 "bookTitle": "LIGHTLARK",
@@ -2359,19 +2338,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Casey Red",
+                        "fullname": "Casey Red",
                         "text": "Good book, but a bit too long."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     }
                 ],
-                "bookId": 84
+                "id": 84
             },
             {
                 "bookTitle": "FIVE SURVIVE",
@@ -2387,19 +2366,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Sam Green",
+                        "fullname": "Sam Green",
                         "text": "Terrible. Do not waste your time."
                     },
                     {
-                        "Fullname": "Alex Blue",
+                        "fullname": "Alex Blue",
                         "text": "A masterpiece! Highly recommend it to everyone."
                     },
                     {
-                        "Fullname": "Skyler Yellow",
+                        "fullname": "Skyler Yellow",
                         "text": "I struggled to stay interested."
                     }
                 ],
-                "bookId": 85
+                "id": 85
             },
             {
                 "bookTitle": "HARRY POTTER",
@@ -2415,19 +2394,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "Riley Brown",
+                        "fullname": "Riley Brown",
                         "text": "Solid book with a good mix of action and drama."
                     },
                     {
-                        "Fullname": "Jordan Gray",
+                        "fullname": "Jordan Gray",
                         "text": "Exceptional. One of the best books I've read."
                     }
                 ],
-                "bookId": 86
+                "id": 86
             },
             {
                 "bookTitle": "FOLK OF THE AIR",
@@ -2443,19 +2422,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jamie Yellow",
+                        "fullname": "Jamie Yellow",
                         "text": "Engaging and beautifully written."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "Reese Red",
+                        "fullname": "Reese Red",
                         "text": "I couldn't finish it. Not engaging at all."
                     }
                 ],
-                "bookId": 87
+                "id": 87
             },
             {
                 "bookTitle": "THE HUNGER GAMES",
@@ -2471,19 +2450,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Reese Blue",
+                        "fullname": "Reese Blue",
                         "text": "Awful. Would not recommend at all."
                     },
                     {
-                        "Fullname": "Chris Green",
+                        "fullname": "Chris Green",
                         "text": "Very enjoyable with a few slow parts."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "An epic tale with a lot of heart and excitement."
                     }
                 ],
-                "bookId": 88
+                "id": 88
             },
             {
                 "bookTitle": "THE SUMMER I TURNED PRETTY TRILOGY",
@@ -2499,19 +2478,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Chris Red",
+                        "fullname": "Chris Red",
                         "text": "Great read with a few minor issues."
                     },
                     {
-                        "Fullname": "Jordan Gray",
+                        "fullname": "Jordan Gray",
                         "text": "Exceptional. One of the best books I've read."
                     },
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     }
                 ],
-                "bookId": 89
+                "id": 89
             },
             {
                 "bookTitle": "POWERLESS",
@@ -2527,19 +2506,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Dakota Red",
+                        "fullname": "Dakota Red",
                         "text": "Poorly written and uninteresting."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     },
                     {
-                        "Fullname": "Jamie Blue",
+                        "fullname": "Jamie Blue",
                         "text": "Terrible book. Complete waste of time."
                     }
                 ],
-                "bookId": 90
+                "id": 90
             },
             {
                 "bookTitle": "POWERFUL",
@@ -2555,19 +2534,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     },
                     {
-                        "Fullname": "Dakota Red",
+                        "fullname": "Dakota Red",
                         "text": "Poorly written and uninteresting."
                     },
                     {
-                        "Fullname": "Jordan Pink",
+                        "fullname": "Jordan Pink",
                         "text": "Average book. Some good moments, some bad."
                     }
                 ],
-                "bookId": 91
+                "id": 91
             },
             {
                 "bookTitle": "THE REAPPEARANCE OF RACHEL PRICE",
@@ -2583,19 +2562,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Casey White",
+                        "fullname": "Casey White",
                         "text": "Good book with a few slow parts."
                     },
                     {
-                        "Fullname": "Chris Lee",
+                        "fullname": "Chris Lee",
                         "text": "Not quite what I expected, but had some good moments."
                     },
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     }
                 ],
-                "bookId": 92
+                "id": 92
             },
             {
                 "bookTitle": "DIVINE RIVALS",
@@ -2611,19 +2590,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Morgan Gray",
+                        "fullname": "Morgan Gray",
                         "text": "An okay read. Not great, but not bad either."
                     },
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     },
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     }
                 ],
-                "bookId": 93
+                "id": 93
             },
             {
                 "bookTitle": "NIGHTBANE",
@@ -2633,28 +2612,25 @@
                 "bookPublisher": "Amulet",
                 "amazonBookUrl": "https://www.amazon.com/dp/1419760904?tag=thenewyorktim-20",
                 "bookIsbn": "1419760904",
-                "mood": [
-                    "Adventurous",
-                    "Romance"
-                ],
+                "mood": "Adventurous",
                 "genre": "Fantasy",
                 "bestSeller": false,
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Casey Yellow",
+                        "fullname": "Casey Yellow",
                         "text": "Well-written with some memorable characters."
                     },
                     {
-                        "Fullname": "Chris Red",
+                        "fullname": "Chris Red",
                         "text": "Great read with a few minor issues."
                     },
                     {
-                        "Fullname": "Jamie Brown",
+                        "fullname": "Jamie Brown",
                         "text": "A well-written book with engaging characters."
                     }
                 ],
-                "bookId": 94
+                "id": 94
             },
             {
                 "bookTitle": "RUTHLESS VOWS",
@@ -2670,19 +2646,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Casey Yellow",
+                        "fullname": "Casey Yellow",
                         "text": "Well-written with some memorable characters."
                     },
                     {
-                        "Fullname": "Sam Morgan",
+                        "fullname": "Sam Morgan",
                         "text": "Absolutely fantastic! Couldn’t put it down."
                     },
                     {
-                        "Fullname": "Riley Brown",
+                        "fullname": "Riley Brown",
                         "text": "Solid book with a good mix of action and drama."
                     }
                 ],
-                "bookId": 95
+                "id": 95
             },
             {
                 "bookTitle": "SWEET NIGHTMARE",
@@ -2698,19 +2674,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Chris Lee",
+                        "fullname": "Chris Lee",
                         "text": "Not quite what I expected, but had some good moments."
                     },
                     {
-                        "Fullname": "Riley Brown",
+                        "fullname": "Riley Brown",
                         "text": "Solid book with a good mix of action and drama."
                     },
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     }
                 ],
-                "bookId": 96
+                "id": 96
             },
             {
                 "bookTitle": "FIRST LIE WINS",
@@ -2726,19 +2702,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Pat Pink",
+                        "fullname": "Pat Pink",
                         "text": "Loved it! Would read again."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "Not interesting enough for me."
                     },
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     }
                 ],
-                "bookId": 97
+                "id": 97
             },
             {
                 "bookTitle": "IRON FLAME",
@@ -2754,19 +2730,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Reese Blue",
+                        "fullname": "Reese Blue",
                         "text": "Awful. Would not recommend at all."
                     },
                     {
-                        "Fullname": "Jamie Yellow",
+                        "fullname": "Jamie Yellow",
                         "text": "Engaging and beautifully written."
                     },
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     }
                 ],
-                "bookId": 98
+                "id": 98
             },
             {
                 "bookTitle": "THE THREE-BODY PROBLEM",
@@ -2782,19 +2758,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Pat White",
+                        "fullname": "Pat White",
                         "text": "Absolutely amazing. A must-read."
                     },
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     },
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     }
                 ],
-                "bookId": 99
+                "id": 99
             },
             {
                 "bookTitle": "LISTEN FOR THE LIE",
@@ -2810,19 +2786,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Alex Pink",
+                        "fullname": "Alex Pink",
                         "text": "It was alright. Not great, not terrible."
                     },
                     {
-                        "Fullname": "Riley Pink",
+                        "fullname": "Riley Pink",
                         "text": "Very good, but a bit predictable."
                     },
                     {
-                        "Fullname": "Reese Blue",
+                        "fullname": "Reese Blue",
                         "text": "Awful. Would not recommend at all."
                     }
                 ],
-                "bookId": 100
+                "id": 100
             },
             {
                 "bookTitle": "THE COVENANT OF WATER",
@@ -2838,19 +2814,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     },
                     {
-                        "Fullname": "Alex Pink",
+                        "fullname": "Alex Pink",
                         "text": "It was alright. Not great, not terrible."
                     },
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     }
                 ],
-                "bookId": 101
+                "id": 101
             },
             {
                 "bookTitle": "REBEL RISING",
@@ -2866,19 +2842,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "Alex Pink",
+                        "fullname": "Alex Pink",
                         "text": "It was alright. Not great, not terrible."
                     },
                     {
-                        "Fullname": "Morgan Blue",
+                        "fullname": "Morgan Blue",
                         "text": "An epic tale with a lot of heart and excitement."
                     }
                 ],
-                "bookId": 102
+                "id": 102
             },
             {
                 "bookTitle": "EXTREME OWNERSHIP",
@@ -2894,19 +2870,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     },
                     {
-                        "Fullname": "Sam Morgan",
+                        "fullname": "Sam Morgan",
                         "text": "Absolutely fantastic! Couldn’t put it down."
                     },
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     }
                 ],
-                "bookId": 103
+                "id": 103
             },
             {
                 "bookTitle": "THE WOMAN IN ME",
@@ -2922,19 +2898,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Chris Yellow",
+                        "fullname": "Chris Yellow",
                         "text": "Great story, but the ending was a bit rushed."
                     },
                     {
-                        "Fullname": "Riley Brown",
+                        "fullname": "Riley Brown",
                         "text": "Solid book with a good mix of action and drama."
                     },
                     {
-                        "Fullname": "Riley Brown",
+                        "fullname": "Riley Brown",
                         "text": "Solid book with a good mix of action and drama."
                     }
                 ],
-                "bookId": 104
+                "id": 104
             },
             {
                 "bookTitle": "THE SCARLET SHEDDER",
@@ -2950,19 +2926,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Green",
+                        "fullname": "Jordan Green",
                         "text": "The storyline was predictable and unoriginal."
                     },
                     {
-                        "Fullname": "Jamie Brown",
+                        "fullname": "Jamie Brown",
                         "text": "A well-written book with engaging characters."
                     },
                     {
-                        "Fullname": "Reese Red",
+                        "fullname": "Reese Red",
                         "text": "I couldn't finish it. Not engaging at all."
                     }
                 ],
-                "bookId": 105
+                "id": 105
             },
             {
                 "bookTitle": "JUJUTSU KAISEN, VOL. 22",
@@ -2978,19 +2954,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Chris Red",
+                        "fullname": "Chris Red",
                         "text": "Great read with a few minor issues."
                     },
                     {
-                        "Fullname": "Jordan Blue",
+                        "fullname": "Jordan Blue",
                         "text": "A true work of art. Loved every page."
                     },
                     {
-                        "Fullname": "Chris Green",
+                        "fullname": "Chris Green",
                         "text": "Very enjoyable with a few slow parts."
                     }
                 ],
-                "bookId": 106
+                "id": 106
             },
             {
                 "bookTitle": "TWENTY THOUSAND FLEAS UNDER THE SEA",
@@ -3006,19 +2982,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Jane Smith",
+                        "fullname": "Jane Smith",
                         "text": "Great character development and an intriguing plot."
                     },
                     {
-                        "Fullname": "John Doe",
+                        "fullname": "John Doe",
                         "text": "A captivating and thrilling story from start to finish."
                     },
                     {
-                        "Fullname": "Jordan Pink",
+                        "fullname": "Jordan Pink",
                         "text": "Average book. Some good moments, some bad."
                     }
                 ],
-                "bookId": 107
+                "id": 107
             },
             {
                 "bookTitle": "WINTER TURNING",
@@ -3034,19 +3010,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Dakota Red",
+                        "fullname": "Dakota Red",
                         "text": "Poorly written and uninteresting."
                     },
                     {
-                        "Fullname": "Casey Red",
+                        "fullname": "Casey Red",
                         "text": "Good book, but a bit too long."
                     },
                     {
-                        "Fullname": "Taylor Red",
+                        "fullname": "Taylor Red",
                         "text": "Didn’t live up to my expectations."
                     }
                 ],
-                "bookId": 108
+                "id": 108
             },
             {
                 "bookTitle": "INFLUENCERS",
@@ -3062,19 +3038,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Sam Morgan",
+                        "fullname": "Sam Morgan",
                         "text": "Absolutely fantastic! Couldn’t put it down."
                     },
                     {
-                        "Fullname": "Morgan Red",
+                        "fullname": "Morgan Red",
                         "text": "Boring and uninspired."
                     },
                     {
-                        "Fullname": "Chris Green",
+                        "fullname": "Chris Green",
                         "text": "Very enjoyable with a few slow parts."
                     }
                 ],
-                "bookId": 109
+                "id": 109
             },
             {
                 "bookTitle": "I SURVIVED THE BATTLE OF D-DAY, 1944",
@@ -3090,19 +3066,19 @@
                 "rating": 1,
                 "reviews": [
                     {
-                        "Fullname": "Pat Blue",
+                        "fullname": "Pat Blue",
                         "text": "An unforgettable journey from start to finish."
                     },
                     {
-                        "Fullname": "Pat White",
+                        "fullname": "Pat White",
                         "text": "Absolutely amazing. A must-read."
                     },
                     {
-                        "Fullname": "Pat Taylor",
+                        "fullname": "Pat Taylor",
                         "text": "I struggled to finish this book. Not my taste."
                     }
                 ],
-                "bookId": 110
+                "id": 110
             },
             {
                 "bookTitle": "BERSERK DELUXE, VOL. 1",
@@ -3118,19 +3094,19 @@
                 "rating": 2,
                 "reviews": [
                     {
-                        "Fullname": "Jamie Green",
+                        "fullname": "Jamie Green",
                         "text": "Not worth the time. Very disappointing."
                     },
                     {
-                        "Fullname": "Reese Red",
+                        "fullname": "Reese Red",
                         "text": "I couldn't finish it. Not engaging at all."
                     },
                     {
-                        "Fullname": "Taylor White",
+                        "fullname": "Taylor White",
                         "text": "Decent read, but I felt it was too long."
                     }
                 ],
-                "bookId": 111
+                "id": 111
             },
             {
                 "bookTitle": "CLAUDIA AND THE BAD JOKE",
@@ -3146,19 +3122,19 @@
                 "rating": 4,
                 "reviews": [
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     },
                     {
-                        "Fullname": "Casey Black",
+                        "fullname": "Casey Black",
                         "text": "Not enjoyable at all. Would not recommend."
                     },
                     {
-                        "Fullname": "Pat Pink",
+                        "fullname": "Pat Pink",
                         "text": "Loved it! Would read again."
                     }
                 ],
-                "bookId": 112
+                "id": 112
             },
             {
                 "bookTitle": "MOTHERING HEIGHTS",
@@ -3174,19 +3150,19 @@
                 "rating": 5,
                 "reviews": [
                     {
-                        "Fullname": "Jordan Gray",
+                        "fullname": "Jordan Gray",
                         "text": "Exceptional. One of the best books I've read."
                     },
                     {
-                        "Fullname": "Taylor Gray",
+                        "fullname": "Taylor Gray",
                         "text": "Not what I was expecting. Disappointed."
                     },
                     {
-                        "Fullname": "Pat Pink",
+                        "fullname": "Pat Pink",
                         "text": "Loved it! Would read again."
                     }
                 ],
-                "bookId": 113
+                "id": 113
             },
             {
                 "bookTitle": "BAD DREAMS IN THE NIGHT",
@@ -3202,19 +3178,19 @@
                 "rating": 3,
                 "reviews": [
                     {
-                        "Fullname": "Morgan Gray",
+                        "fullname": "Morgan Gray",
                         "text": "An okay read. Not great, but not bad either."
                     },
                     {
-                        "Fullname": "Taylor Pink",
+                        "fullname": "Taylor Pink",
                         "text": "I had high hopes, but it didn't deliver."
                     },
                     {
-                        "Fullname": "Skyler Gray",
+                        "fullname": "Skyler Gray",
                         "text": "Too slow and boring for my taste."
                     }
                 ],
-                "bookId": 114
+                "id": 114
             }
     ]
   
