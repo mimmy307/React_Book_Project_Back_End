@@ -3,7 +3,7 @@
     {
       "bookTitle": "YOU LIKE IT DARKER",
       "bookImage": "https://storage.googleapis.com/du-prd/books/images/9781668037713.jpg",
-      "bookDescription": "A dozen short stories that explore darkness in literal and metaphorical forms.",
+      "bookDescription": "“You like it darker? Fine, so do I,” writes Stephen King in the afterword to this magnificent new collection of twelve stories that delve into the darker part of life—both metaphorical and literal. King has, for half a century, been a master of the form, and these stories, about fate, mortality, luck, and the folds in reality where anything can happen, are as rich and riveting as his novels, both weighty in theme and a huge pleasure to read. King writes to feel “the exhilaration of leaving ordinary day-to-day life behind,” and in You Like It Darker, readers will feel that exhilaration too, again and again.",
       "bookAuthor": "Stephen King",
       "bookPublisher": "Scribner",
       "amazonBookUrl": "https://www.amazon.com/dp/1668037718?tag=thenewyorktim-20",
@@ -3191,6 +3191,18 @@
         }
       ],
       "id": 114
+    },
+    {
+      "bookTitle": "Dad, I Want to Hear Your Story",
+      "bookImage": "https://m.media-amazon.com/images/I/51ZvZFJOsrL._SY522_.jpg",
+      "bookDescription": "nnnnn",
+      "bookAuthor": "Jeffrey Mason",
+      "bookPublisher": "hall",
+      "bookIsbn": "23145",
+      "mood": "Sad",
+      "genre": "Fiction",
+      "rating": "4",
+      "id": 118
     }
   ]
 }
